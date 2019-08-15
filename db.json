@@ -1,0 +1,39 @@
+{
+    weapons: [
+        Sword: {
+            id: 0,
+            name: "Sword of Doom",
+            texture: "sword",
+            damageMin: 7,
+            damageMax: 9
+        },
+        Staff: {
+            id: 1,
+            name: "staff of Knowledge",
+            texture: "staff",
+            damageMin: 5,
+            damageMax: 15
+        },
+        Dagger: {
+            id: 2,
+            name: "Dagger of brutality",
+            texture: "dagger",
+            damageMin: 5,
+            damageMax: 18
+        },
+        Mace: {
+            id: 3,
+            name: "mace of force",
+            texture: "mace",
+            damageMin: 12,
+            damageMax: 14
+        },
+        Bow: {
+            id: 4,
+            name: "bow of arrogance",
+            texture: "bow",
+            damageMin: 1,
+            damageMax: 22
+        }
+    ]
+}
