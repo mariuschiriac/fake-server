@@ -16,7 +16,7 @@
         },
         {
             "id": 2,
-            "name": "Dagger,
+            "name": "Dagger",
             "texture": "dagger",
             "damageMin": 5,
             "damageMax": 18
