@@ -34,6 +34,13 @@
             "texture": "bow",
             "damageMin": 1,
             "damageMax": 22
+        },
+        {
+            "id": 5,
+            "name": "Spear",
+            "texture": "spear",
+            "damageMin": 11,
+            "damageMax": 11
         }
     ]
 }
