@@ -41,13 +41,6 @@
             "texture": "spear",
             "damageMin": 11,
             "damageMax": 11
-        },
-        {
-            "id": 6,
-            "name": "Javelin",
-            "texture": "javelin",
-            "damageMin": 9,
-            "damageMax": 14
         }
     ]
 }
